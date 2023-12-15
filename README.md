@@ -1,2 +1,4 @@
 # Facila-Recognition-Attendance-System
 A facial recognition attendance  system, where it recognizes and verifies an employee/student’s facial features to record  attendance automatically.
+In this project, there will be a camera module, which let’s say the student comes in front of it, and the camera module will take the input and Python will check if that face is present in the database. If the face is present in the database, the system will update the name of that face owner in a csv file. There will be a new csv file for each day, and it should consist of two data. First, the name of the student, and secondly the entry time of the student.
+for a large number of people we can use For loop to load all images of people and Access them using the os package. However, in this project, I worked with only 4 people and added their photos inside a folder in the project environment. 
